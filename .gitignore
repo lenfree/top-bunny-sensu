@@ -1,0 +1,6 @@
+*.swp
+.bundle
+*.gem
+pkg
+.bin/
+.gems/
